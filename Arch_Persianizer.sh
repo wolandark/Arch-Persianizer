@@ -9,7 +9,7 @@
 #          git
 
 # https://github.com/wolandark
-# https://github.com/wolandark/BASH_Scripts_For_Everyone
+# https://github.com/wolandark/Arch-Persianizer
 
 packages=(
   base-devel
