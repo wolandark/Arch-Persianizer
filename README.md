@@ -26,7 +26,6 @@
 - Configuring Xorg For IR Keyboard Layout
 - Setting Up Proper Time & Date
 - Generating Proper Locale
-- 
 
 ### Todo
 - [x] Add Xorg Configuration `(Completed!)`
