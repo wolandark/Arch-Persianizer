@@ -29,7 +29,7 @@
 - 
 
 ### Todo
-- [x] Add Xorg Configuration
+- [x] Add Xorg Configuration (Completed!)
 - [ ] Add LibreOffice Optimization 
 - [ ] Add Persian KeyMap For Vim
 
