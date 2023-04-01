@@ -54,6 +54,7 @@ EndSection" > /etc/X11/xorg.conf.d/00-keyboard.conf'
 echo -e "برای تغییر زبان از د ستور زیر استفاده کنید"
 echo -e "Use this command to change keyboard layout"
 echo -e "\n\033[7;32mxkb-switch -n\033[0m"
+echo -e "
 بسته به د سکتاپ یا ویندو منیجر خود می توانید این د ستور را به یک شورتکات  ا ختصا ص دهید"
 
 echo "If you dont see the above msg properly, Change your terminal font to Liberation"
