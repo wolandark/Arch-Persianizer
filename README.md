@@ -33,8 +33,11 @@
 - [ ] Add LibreOffice Optimization 
 - [ ] Add Persian KeyMap For Vim
 
-
-
+## Usage
+## شیوه‌ی استفاده
+```
+bash <(curl -s https://raw.githubusercontent.com/wolandark/Arch-Persianizer/master/Arch_Persianizer.sh)
+```
 
 ### Demo
 https://user-images.githubusercontent.com/107309764/229257369-785eb457-cd78-4389-b10f-f68625e03071.mp4
